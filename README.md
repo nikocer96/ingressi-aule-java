@@ -1,4 +1,4 @@
-# ingressi-aule-java
+# Ingressi Aule - Java
 Applicazione Java per la gestione degli ingressi delle aule universitarie
 Questa applicazione Java simula un frammento di un sistema informativo per la gestione degli ingressi alle aule di un'università. Ogni aula è caratterizzata da un codice univoco di 4 caratteri, il suo nome, il piano in cui si trova e l'e-mail del responsabile dell'aula. Ad esempio, un'aula potrebbe essere identificata come "A1", "Laboratorio Didattico", piano 2, con il responsabile che ha l'e-mail "mrossi@unibas.it".
 
